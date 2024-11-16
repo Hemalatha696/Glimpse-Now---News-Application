@@ -1,4 +1,3 @@
-# Glimpse-Now---News-Application
 # Glimpse Now - News Application
 
 ## Overview
